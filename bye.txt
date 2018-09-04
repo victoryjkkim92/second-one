@@ -1,7 +1,6 @@
-hi
-bye
-hi
+hello stranger
 goodbye
 hi
 hi
 hi
+hello stranger
